@@ -6,4 +6,5 @@ Wykorzystane technologie:
 - CSS
 - LESS
 - Bootstrap
+- Jquery
 - Charts.js
