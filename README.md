@@ -1,10 +1,10 @@
 # TeleNumer-dashboard
-Panel Administratora dla strony Telenumer. Widoki dla strony, która umożliwia edycję danych wprowadzonych numerów, statystyki jak i blokowanie ip oraz pogląd logów. Layout został zaprojektowany przeze mnie. Obecnie projekt został porzucony przez programiste Back-endu. 
+I've created admin dashboard for non-existent site. Unfortunalety back end developer has abandoned project. We have some front end views for admin who can easily management site. 
 
-Wykorzystane technologie:
+Technologies i've used:
 - HTML5
 - CSS
 - LESS
-- Bootstrap
+- Bootstrap 3
 - Jquery
 - Charts.js
